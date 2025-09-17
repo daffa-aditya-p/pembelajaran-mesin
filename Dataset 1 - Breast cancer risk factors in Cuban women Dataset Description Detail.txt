@@ -1,0 +1,36 @@
+Judul Dataset: Breast cancer risk factors in Cuban women
+
+Link Dataset: https://data.mendeley.com/datasets/7jhddnpz2p/1
+Link Paper: https://www.sciencedirect.com/science/article/pii/S2352340924009910
+
+
+Dataset Features:
+Id: Sequential registration number
+Age: Patient's age in completed years
+Menarche: Age at first menstruation
+menopause: Age at menopause
+Agefirst: Age at first successful birth
+Children: Number of live births the patient has had
+breastfeeding: Months of breastfeeding 
+Nrelbc: Family history of first-degree breast cancer
+Biopsies: Number of biopsies performed on the patient
+hyperplasia: Presence of atypical hyperplasia
+Race: Patient's race
+Year: Year of breast cancer diagnosis
+Imc: Body mass index
+Weight:Patient's weight in kilograms 
+Exercise: Number of days of physical activity per week
+Alcohol: Alcohol consumption
+Tobacco: Tobacco consumption
+Allergies: Type of allergies the patient has
+Emotional: Emotional predisposition
+Depressive: Presence of depressive symptoms
+histologicalclass: Histological classification of cancer
+Birads: Birads classification of mammography	
+Cancer: Breast cancer diagnosis
+
+
+
+
+Note: 
+The dataset is not clean. We must first analyze the dataset before using it. For example, the values of "No" and "0" (zero) have the same meaning to indicate the absence of menopause in the menopause column. For Detail Information can read the paper of the dataset.
