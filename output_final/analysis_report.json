@@ -1,0 +1,18 @@
+{
+  "analysis_info": {
+    "timestamp": "2025-09-18T09:47:12.858630",
+    "best_model": "randomforest",
+    "total_models_trained": 1
+  },
+  "model_performance": {
+    "randomforest": {
+      "test_accuracy": 1.0,
+      "test_precision": 1.0,
+      "test_recall": 1.0,
+      "test_f1": 1.0,
+      "test_auc": 1.0,
+      "cv_auc_mean": 1.0,
+      "cv_auc_std": 0.0
+    }
+  }
+}

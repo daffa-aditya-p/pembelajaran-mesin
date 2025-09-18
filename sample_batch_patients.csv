@@ -1,0 +1,6 @@
+id,age,menarche,menopause,agefirst,children,breastfeeding,nrelbc,biopsies,hyperplasia,race,year,imc,weight,exercise,alcohol,tobacco,allergies,emotional,depressive,histologicalclass,birads
+1001,45,13,No,25,2,18 months,Mother,0,No,White,2020,24.5,65,Sometimes,No,No,No,Joy,No,2,2
+1002,55,11,Yes,35,0,No,Mother/Sister,3,Yes,White,2019,32.1,85,No,Yes,Yes,No,Sad,Yes,4,4B
+1003,38,12,No,28,1,12 months,No,1,No,Mixed,2021,26.8,70,Yes,No,No,Allergies,Joy,No,2,1
+1004,62,10,Yes,22,3,24 months,Mother,2,Yes,Black,2018,29.5,75,Sometimes,No,Yes,No,Sad,No,3,3A
+1005,41,14,No,30,2,6 months,Sister,0,No,White,2022,23.2,58,Yes,No,No,No,Joy,No,1,1

@@ -1,0 +1,19 @@
+BREAST CANCER RISK ANALYSIS - MODEL SUMMARY
+==================================================
+
+Analysis Date: 2025-09-18 09:47:12
+Best Model: randomforest
+Total Models Trained: 1
+
+PERFORMANCE COMPARISON:
+------------------------------
+Model           Accuracy   Precision  Recall     F1         AUC       
+---------------------------------------------------------------------------
+randomforest    1.000      1.000      1.000      1.000      1.000     
+
+BEST MODEL DETAILS:
+--------------------
+Model: randomforest
+Test Accuracy: 1.0000
+Test AUC: 1.0000
+Cross-validation AUC: 1.0000 ± 0.0000
